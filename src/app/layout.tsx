@@ -4,8 +4,8 @@ import "../index.css";
 import { Toaster } from "@/components/ui/sonner";
 
 export const metadata: Metadata = {
-  title: "React + dnd-kit + tailwind + shadcn/ui - Kanban Board",
-  description: "A drag and drop Kanban Board built with React, dnd-kit, Tailwind CSS, and Shadcn UI, now migrated to Next.js.",
+  title: "Kanban Board",
+  description: "A drag and drop Kanban Board built with Next.js, Supabase, dnd-kit, and Shadcn UI.",
 };
 
 export default function RootLayout({
