@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Kanban Board",
   description: "A drag and drop Kanban Board built with Next.js, Supabase, dnd-kit, and Shadcn UI.",
   icons: {
-    icon: "/favicon.ico",
+    icon: "favicon.ico",
   },
 };
 
